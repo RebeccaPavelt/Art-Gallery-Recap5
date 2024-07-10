@@ -10,5 +10,9 @@ export default createGlobalStyle`
   body {
     margin: 0;
     font-family: system-ui;
+    text-align: center;
+    background-color: #f8efba;
+  list-style: none;
+  text-align: center;
   }
-`;
+  `;

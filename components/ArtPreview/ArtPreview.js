@@ -6,7 +6,7 @@ const PieceCard = styled.div`
   padding: 30px 10px;
   margin: 50px 5px;
   text-align: center;
-  background-color: beige;
+  background-color: whitesmoke;
 `;
 
 const PieceTitle = styled.h3`
